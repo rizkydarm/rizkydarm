@@ -1,62 +1,40 @@
-# Hi, I'm [Rizky Darmawan] 👋
-### Flutter Developer | Crafting High-Performance, Production-Ready Mobile Apps
+# Hi there, I'm Rizky Darm 👋
 
-I build cross-platform applications with Flutter & Dart, focusing on clean architecture, pixel-perfect UIs, and scalable state management. Passionate about delivering smooth 60/120fps experiences, robust testing, and seamless app store deployments.
+## Mobile and Web Developer | AI Automation and AI Agent Enthusiast | AI Native Engineer
 
-🔗 [Portfolio](https://yourportfolio.dev) | 📄 [Resume](https://yourresume.link) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | ✉️ [your.email@domain.com](mailto:your.email@domain.com)
+Cross Platform / Mobile & Web Developer | AI Automation Tools & AI Agents Enthusiast | AI Native Engineer
 
----
+🌍 Based in Bandung, Indonesia
 
-## 🛠️ Tech Stack & Expertise
-| Category | Tools & Frameworks |
-|----------|-------------------|
-| **Core** | Dart, Flutter, Kotlin, Swift (basic), C++ (FFI) |
-| **State Management** | Riverpod, BLoC, Provider, GetX |
-| **Architecture** | Clean Architecture, MVVM, SOLID, Repository Pattern |
-| **Backend & APIs** | Firebase, Supabase, REST, GraphQL, WebSockets |
-| **DevOps & CI/CD** | GitHub Actions, Codemagic, Fastlane, TestFlight, Play Console |
-| **Testing** | Unit, Widget, Integration (Mocktail, Patrol, golden_toolkit) |
-| **UI/UX** | Material 3, Cupertino, Custom Paint, Rive/Lottie, Figma → Flutter |
+🌐 Check out my website [rizkydarm.github.io](rizkydarm.github.io)
 
----
+### Connect with me:
 
-## 📱 Featured Projects
-<details open>
-<summary><b>Click to view my top Flutter projects</b></summary>
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizkydarm)
 
-### 🌟 [Project Name 1] - Production Cross-Platform App
-- **What it does:** Brief 1-line description of the app's core value.
-- **Tech:** Flutter, Riverpod, Firebase Auth, Cloud Firestore, Fastlane
-- **Highlights:** Offline-first sync, 50k+ downloads, 99% crash-free sessions
-- 🔗 [GitHub](https://github.com/your/repo) | 📲 [App Store](link) | 🤖 [Play Store](link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizkydarm)
 
-### 🌟 [Project Name 2] - E-Commerce / SaaS / Utility App
-- **What it does:** ...
-- **Tech:** BLoC, GraphQL, Supabase, CI/CD via GitHub Actions, golden tests
-- **Highlights:** Custom payment flow, localization (5 languages), WCAG accessibility
-- 🔗 [GitHub](link) | 🌐 [Live Demo](link)
+### Languages and Tools:
 
-### 🌟 [Project Name 3] - Open Source Package / CLI / Tooling
-- **What it does:** ...
-- **Tech:** Dart, FFI, Pub.dev, automated testing & docs
-- **Highlights:** Published on pub.dev, 1k+ monthly downloads, community contributions
-- 🔗 [GitHub](link) | 📦 [Pub.dev](link)
-</details>
+![Flutter](https://img.shields.io/badge/-Flutter-5847eb?style=flat-square&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-5847eb?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-5847eb?style=flat-square&logo=kotlin&logoColor=white) ![React](https://img.shields.io/badge/-React-5847eb?style=flat-square&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/-Python-5847eb?style=flat-square&logo=python&logoColor=white) ![Typescript](https://img.shields.io/badge/-Typescript-5847eb?style=flat-square&logo=typescript&logoColor=white) ![Javascript](https://img.shields.io/badge/-Javascript-5847eb?style=flat-square&logo=javascript&logoColor=white) ![NodeJS](https://img.shields.io/badge/-NodeJS-5847eb?style=flat-square&logo=nodejs&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-5847eb?style=flat-square&logo=docker&logoColor=white)
 
----
+### GitHub Stats:
 
-## 📊 GitHub Activity & Open Source
-- 🐛 **Bug fixes & docs:** Contributed to `[Flutter SDK / Popular Packages / Community Tools]`
-- 📝 **Technical writing:** Articles on Medium/Dev.to about `[Flutter performance, testing, CI/CD, etc.]`
-- 🔄 **Consistent workflow:** Feature branches, PRs, semantic commits, automated linting & testing
+![rizkydarm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkydarm&show_icons=true&theme=radical)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkydarm&layout=compact&theme=radical)](https://github.com/rizkydarm)
 
-## 🤝 Let's Connect
-I'm currently open to **full-time Flutter roles** (remote/hybrid). If you're building something that needs robust mobile architecture, pixel-perfect UI, or smooth release pipelines, let's talk!
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizkydarm&theme=dark)](https://git.io/streak-stats)
 
-📩 Email: [your.email@domain.com](mailto:your.email@domain.com)  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [yourportfolio.dev](https://yourportfolio.dev)
+![Profile views](https://komarev.com/ghpvc/?username=rizkydarm&color=brightgreen)
 
-> 💡 *Tip: Check out my pinned repositories for production-ready Flutter codebases with CI/CD, testing, and deployment workflows.*
+
+
+
+### Featured Repositories
+
+<table>
+<tr><td align="center" width="50%"><a href="https://github.com/rizkydarm/AI-OCR-ReadImage-PythonDocker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkydarm&repo=AI-OCR-ReadImage-PythonDocker&show_owner=false" alt="AI-OCR-ReadImage-PythonDocker" /></a></td><td align="center" width="50%"><a href="https://github.com/rizkydarm/rizkydarm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkydarm&repo=rizkydarm&show_owner=false" alt="rizkydarm" /></a></td></tr><tr><td align="center" width="50%"><a href="https://github.com/rizkydarm/rizkydarm.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkydarm&repo=rizkydarm.github.io&show_owner=false" alt="rizkydarm.github.io" /></a></td><td align="center" width="50%"><a href="https://github.com/rizkydarm/ClusteringAIAgentsSkills-Python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkydarm&repo=ClusteringAIAgentsSkills-Python&show_owner=false" alt="ClusteringAIAgentsSkills-Python" /></a></td></tr><tr><td align="center" width="50%"><a href="https://github.com/rizkydarm/Eky-Chat-AI-TauriNextTS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkydarm&repo=Eky-Chat-AI-TauriNextTS&show_owner=false" alt="Eky-Chat-AI-TauriNextTS" /></a></td><td align="center" width="50%"><a href="https://github.com/rizkydarm/EkyPOS-SwiftUIKit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkydarm&repo=EkyPOS-SwiftUIKit&show_owner=false" alt="EkyPOS-SwiftUIKit" /></a></td></tr>
+</table>
+
+
